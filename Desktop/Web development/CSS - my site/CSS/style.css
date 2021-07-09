@@ -1,0 +1,159 @@
+body {
+  font-family: 'Antic Slab', serif;
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  color: #56556e;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  line-height: 2;
+  margin: 50px auto 0;
+}
+
+h2 {
+  color: #56556e;
+  font-size: 2rem;
+  font-weight: normal;
+  margin-bottom: 45px;
+}
+
+h3 {
+  color: #11999E;
+  margin-bottom: 45px;
+}
+
+h4 {
+  color: #56556e;
+}
+
+a {
+  color: #382933;
+}
+
+a:hover {
+  color: #EABFBF;
+}
+
+hr {
+  border-style: dotted none none;
+  border-width: 10px;
+  border-color: grey;
+  width: 5%;
+  margin-bottom: 100px;
+}
+
+#prof {
+  text-decoration: underline;
+}
+
+#catch {
+  position: absolute;
+  right: 680px;
+}
+
+#ik {
+  border-radius: 100%;
+  height: 175px;
+}
+
+.top-container {
+  background-color: #bbd196;
+  font-family: 'Baloo 2', cursive;
+  padding-top: 100px;
+}
+
+.middle-container {
+  background-color: #ffd571;
+  padding-top: 75px;
+  padding-bottom: 75px;
+}
+
+.bottom-container {
+  background-color: #cdb30c;
+  padding-bottom: 50px;
+  padding-top: 50px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 250px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 350px;
+}
+
+.intro-text {
+  line-height: 2;
+  margin: 50px auto 100px auto;
+  width: 25%;
+}
+
+.skill-row {
+  line-height: 2;
+  margin: 100px auto;
+  width: 50%;
+  text-align: left;
+}
+
+.skills-img {
+  border-radius: 15%;
+  float: left;
+  margin-right: 30px;
+  width:30%;
+  height: 15rem;
+}
+
+.skills-img2 {
+  border-radius: 15%;
+  top: 150px;
+  float: right;
+  margin : 0 30px 30px;
+  position: relative;
+  width: 40%;
+  height: 15rem;
+}
+
+.student-text {
+  width: 50%;
+  margin-right: 20px;
+}
+
+.special-text {
+  margin: 1.5rem auto 5rem;
+  width: 50%;
+}
+
+.btn {
+  background-image: linear-gradient(#00b7c2, #0f4c75);
+  border: 1px solid #b0cac7;
+  border-radius: 8%;
+  color: white;
+  display: inline-block;
+  padding: 10px;
+  text-align: center;
+  text-decoration: none;
+  width: 8rem;
+  height: 2rem;
+}
+
+.btn:hover {
+  background-image: linear-gradient(#89c9b8, #318fb5);
+  border: 1px solid #eeeeee;
+  color: white;
+}
+
+.footer-link {
+  text-decoration: none;
+  padding: 25px 25px;
+}
+
+.copyright {
+  color : #523906;
+  font-size: 0.85rem;
+  margin-top: 35px;
+}
